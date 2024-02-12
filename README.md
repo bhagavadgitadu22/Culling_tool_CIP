@@ -1,5 +1,5 @@
 # Aim of the repository 
-This Github repository was created to host the culling tool developed by the Collection of bacteria of the Institut Pasteur (CIP, xxx). It was created to suit our specific needs (decide on a list of bacteria to sequence and to discard among our 20000 strains) and requirements (our homemade LIMS (Laboratory Information Management System)). You can use it at your convenience and adapt it to the needs of your collection.
+This Github repository was created to host the culling tool developed by the Collection of bacteria of the Institut Pasteur (CIP, see www.pasteur.fr/en/public-health/biobanks-and-collections/collection-institut-pasteur-cip). It was created to suit our specific needs (decide on a list of priority strains to perform whole genome sequencing among our ~25000 strains) and requirements (our homemade BIMS (Biobank Information Management System)). You can use it at your convenience and adapt it to the needs of your microbial biobank.
 
 The Github includes 2 main folders: one for SQL scripts and the other one for Python scripts. Most SQL scripts are called by the Python scripts.
 
